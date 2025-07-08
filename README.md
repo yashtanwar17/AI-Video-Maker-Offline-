@@ -1,5 +1,7 @@
 # AI Short Video Maker (Offline)
 
+🎬 **See a sample video before using**: [Demo](https://github.com/yashtanwar17/AI-Video-Maker-Offline-/raw/refs/heads/main/imgs/output.mp4)
+
 This is a **Python-based desktop app** to create TikTok-style vertical gameplay videos with **voiceovers and animated subtitles**. 
 To make it fully offline, replace `edge-tts` with an offline TTS engine like pyttsx3.
 
