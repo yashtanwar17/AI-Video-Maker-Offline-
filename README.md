@@ -39,7 +39,7 @@ Scroll down for `Releases`
 
 | Version | Download | Description |
 |---------|----------|-------------|
-| v1.0.0  | [Download v1.0.0](#) | Initial release with basic TTS, subtitles, music, and progress bar support. |
+| v1.0.0  | [Download v1.0.0](https://mega.nz/file/5r4yURRQ#awmbrs6y8NnUkigogM4n-meJS5OITu_6vMaTtRpqing) | Initial release with basic TTS, subtitles, music, and progress bar support. |
 
 > 🔗 More versions & changelogs will be added here.
 ---
