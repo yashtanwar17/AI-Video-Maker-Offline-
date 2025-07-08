@@ -3,6 +3,8 @@
 This is a **Python-based desktop app** to create TikTok-style vertical gameplay videos with **voiceovers and animated subtitles**. 
 To make it fully offline, replace `edge-tts` with an offline TTS engine like pyttsx3.
 
+![UI Screenshot](https://raw.githubusercontent.com/yashtanwar17/AI-Video-Maker-Offline-/refs/heads/main/imgs/ui.jpeg)
+
 ## Features
 - Create 9:16 short videos from long gameplay footage
 - AI voiceover using Edge TTS
